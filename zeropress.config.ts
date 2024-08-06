@@ -17,6 +17,7 @@ const config: UserConfig = {
       },
     ],
   },
+  title: '小慈的超级无敌好懂讲解'
 }
 
 export default config
