@@ -17,7 +17,8 @@ const config: UserConfig = {
       },
     ],
   },
-  title: '小慈的超级无敌好懂讲解'
+  title: '小慈的笔记',
+  description: '我们都是自由哒!',
 }
 
 export default config
