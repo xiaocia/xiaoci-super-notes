@@ -18,7 +18,7 @@ const config: UserConfig = {
     ],
   },
   title: '小慈的笔记',
-  description: '我们都是自由哒!',
+  description: '了解真相,你才能获得真正的自由.',
 }
 
 export default config
